@@ -1,10 +1,17 @@
 # Using-time-series-analysis-to-forecast-American-Airlines-Group-stocks
 
-The project involves using time series analysis to forecast American Airlines Group stocks. Key steps in the project include:
+📈🛫 Using Time Series Analysis to Forecast American Airlines Group Stocks 📊📈
 
-Visualizing the time series
-Stationarity and white noise tests, as well as outlier detection
-Box-Cox transformation to normalize the data
-Residual analysis and model selection (ARIMA, SARIMA)
-Predicting the time series using the selected models.
-To accomplish this, we will be using libraries such as caschrono, forecast, BatchGetSymbols, ggplot2, and tsm.
+The goal of this project is to use time series analysis to forecast the stock prices of American Airlines Group. We will be utilizing various key steps in the project including:
+
+👁️ Visualizing the time series
+📉 Checking for stationarity and white noise
+🔍 Detecting outliers
+📈 Applying Box-Cox transformation to normalize the data
+📊 Conducting residual analysis
+📊 Selecting the appropriate model (ARIMA, SARIMA)
+🔮 Predicting the time series using the selected models
+
+To accomplish this, we will be using popular libraries such as caschrono, forecast, BatchGetSymbols, ggplot2, and tsm.
+
+📊📉📈 By analyzing the trends in the American Airlines Group stocks, we hope to gain insights into the market and make informed predictions for future investments.
